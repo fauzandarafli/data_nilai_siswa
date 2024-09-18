@@ -50,3 +50,6 @@ Upon running the application, you'll be prompted to log in with your credentials
 
 ### Contributing
 Feel free to fork the repository and submit pull requests. Any improvements or bug fixes are welcome!
+
+### Acknowledgement
+This code was created as a completion of the Capstone Project 1 Purwadhika Data Science program assignment.

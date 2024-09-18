@@ -53,3 +53,6 @@ Feel free to fork the repository and submit pull requests. Any improvements or b
 
 ### Acknowledgement
 This code was created as a completion of the Capstone Project 1 Purwadhika Data Science program assignment.
+
+### Contact
+For any questions or issues, please contact **Rafli Fauzan Andara** (hello.fauzandarafli@gmail.com)
